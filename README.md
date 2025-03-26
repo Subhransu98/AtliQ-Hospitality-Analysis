@@ -20,21 +20,21 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/user-attachments/assets/8e8af9d5-5193-4f3e-88ef-d868c21147d9" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img width="334" alt="Image" src="https://github.com/user-attachments/assets/b65f97be-0c87-4489-8445-d07ceb16d9d2" />
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/user-attachments/assets/38f477af-0b84-4a04-8c97-a49976968d8d' width="600">
 </p>
 
 ## Monthly Analysis View
