@@ -40,7 +40,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/user-attachments/assets/09102a1e-c516-41de-94ee-fcb557097b02' width="600">
 </p>
 
 ## Learnt things from this Project 
