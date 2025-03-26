@@ -2,8 +2,6 @@
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTI3MDIxNjgtMjdhNi00ZGI0LWE3YWItZjM2NTM4ZTViNjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
